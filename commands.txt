@@ -1,0 +1,2 @@
+java -jar encoder.jar -i input.duck -o output.bin -l fr
+duck2spark.py -i output.bin -l 1 -f 2000 -o sketch.ino
